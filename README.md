@@ -53,8 +53,6 @@ TITAN整体由如下5部分子系统构成：
 - email：gaoxl@yunjiweidian.com
 - QQ Group：574295338
 - Power by云集研发中心基础架构组
-- welcome to commit
-- bangbangda
 
 
 ----------
